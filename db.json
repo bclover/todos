@@ -1,8 +1,34 @@
 {
-  "posts": [
+  "todos": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Hire good UI Developer."
+      "priority": "life changing"
+    },
+    {
+      "id": 2,
+      "title": "Hire good UX Designer."
+      "priority": "life changing"
+    },
+    {
+      "id": 3,
+      "title": "Hire good Backend Developer."
+      "priority": "important"
+    },
+    {
+      "id": 4,
+      "title": "Hire good Test Engineer."
+      "priority": "important"
+    },
+     {
+      "id": 5,
+      "title": "Hire good Marketing Manager."
+      "priority": "meh"
+    },
+    {
+      "id": 6,
+      "title": "Hire good Sales Person."
+      "priority": "meh"
     }
   ],
   "profile": {
