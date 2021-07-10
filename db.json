@@ -2,32 +2,32 @@
   "data": [
     {
       "id": 1,
-      "title": "Hire good UI Developer.",
+      "title": "Create project architecture.",
       "priority": "life changing"
     },
     {
       "id": 2,
-      "title": "Hire good UX Designer.",
+      "title": "Set up node modules.",
       "priority": "life changing"
     },
     {
       "id": 3,
-      "title": "Hire good Backend Developer.",
+      "title": "Wire up Vuetify.",
       "priority": "important"
     },
     {
       "id": 4,
-      "title": "Hire good Test Engineer.",
+      "title": "Add in Vuex for state management.",
       "priority": "important"
     },
      {
       "id": 5,
-      "title": "Hire good Marketing Manager.",
+      "title": "Unit test UI componets.",
       "priority": "meh"
     },
     {
       "id": 6,
-      "title": "Hire good Sales Person.",
+      "title": "Add e2e testing.",
       "priority": "meh"
     }
   ],
