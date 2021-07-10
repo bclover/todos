@@ -3,32 +3,38 @@
     {
       "id": 1,
       "title": "Create project architecture.",
-      "priority": "life changing"
+      "priority": "life changing",
+      "assigned": "Bryan Clover"
     },
     {
       "id": 2,
       "title": "Set up node modules.",
-      "priority": "life changing"
+      "priority": "life changing",
+      "assigned": "Bryan Clover"
     },
     {
       "id": 3,
       "title": "Wire up Vuetify.",
       "priority": "important"
+      "assigned": "Dina Dunn"
     },
     {
       "id": 4,
       "title": "Add in Vuex for state management.",
-      "priority": "important"
+      "priority": "important",
+      "assigned": "Brandon Smith"
     },
      {
       "id": 5,
       "title": "Unit test UI componets.",
-      "priority": "meh"
+      "priority": "meh",
+       "assigned": "Paul Miller"
     },
     {
       "id": 6,
       "title": "Add e2e testing.",
-      "priority": "meh"
+      "priority": "meh",
+      "assigned": "Katie Curran"
     }
   ]
 }
