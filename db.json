@@ -30,8 +30,5 @@
       "title": "Add e2e testing.",
       "priority": "meh"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
