@@ -35,6 +35,18 @@
       "title": "Add e2e testing.",
       "priority": "Meh",
       "assigned": "Katie Curran"
+    },
+     {
+      "id": 7,
+      "title": "Add accessibility.",
+      "priority": "Important",
+      "assigned": "Tom Jones"
+    },
+     {
+      "id": 8,
+      "title": "Add internationalization.",
+      "priority": "Life Changing",
+      "assigned": "Ellie Cho"
     }
   ]
 }
