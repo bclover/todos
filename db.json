@@ -10,13 +10,13 @@
       "id": 2,
       "title": "Set up node modules.",
       "priority": "Life Changing",
-      "assigned": "Bryan Clover"
+      "assigned": "Craig Gering"
     },
     {
       "id": 3,
       "title": "Wire up Vuetify.",
       "priority": "Important",
-      "assigned": "Dina Dunn"
+      "assigned": "Chuck Masucci"
     },
     {
       "id": 4,
@@ -28,25 +28,37 @@
       "id": 5,
       "title": "Unit test UI componets.",
       "priority": "Meh",
-       "assigned": "Paul Miller"
+       "assigned": "Jamie Nelson"
     },
     {
       "id": 6,
       "title": "Add e2e testing.",
       "priority": "Meh",
-      "assigned": "Katie Curran"
+      "assigned": "Kevin Stech"
     },
      {
       "id": 7,
       "title": "Add accessibility.",
       "priority": "Important",
-      "assigned": "Tom Jones"
+      "assigned": "Krismy Botkin"
     },
      {
       "id": 8,
       "title": "Add internationalization.",
       "priority": "Life Changing",
-      "assigned": "Ellie Cho"
+      "assigned": "Katie Gonzalez"
+    }
+    {
+      "id": 9,
+      "title": "Remove unnecessary node modules",
+      "priority": "Important",
+      "assigned": "Jason Vincent"
+    },
+{
+      "id": 10,
+      "title": "Implement Vuelidate for client-side validation",
+      "priority": "Important",
+      "assigned": "Bryan Clover"
     }
   ]
 }
