@@ -36,25 +36,25 @@
       "priority": "Meh",
       "assigned": "Kevin Stech"
     },
-     {
+    {
       "id": 7,
       "title": "Add accessibility.",
       "priority": "Important",
       "assigned": "Krismy Botkin"
     },
-     {
+    {
       "id": 8,
       "title": "Add internationalization.",
       "priority": "Life Changing",
       "assigned": "Katie Gonzalez"
-    }
+    },
     {
       "id": 9,
       "title": "Remove unnecessary node modules",
       "priority": "Important",
       "assigned": "Jason Vincent"
     },
-{
+    {
       "id": 10,
       "title": "Implement Vuelidate for client-side validation",
       "priority": "Important",
